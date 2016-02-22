@@ -4,3 +4,4 @@ vagrantup => https://www.vagrantup.com/
 otto => https://www.ottoproject.io
 docker-machine => https://docs.docker.com/machine/
 oh-my-zsh => http://ohmyz.sh/
+aws-shell => https://github.com/awslabs/aws-shell
