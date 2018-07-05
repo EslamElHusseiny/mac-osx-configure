@@ -1,3 +1,5 @@
+xcode
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install diff-so-fancy && git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"
 brew install asciinema git go glide gox groovy htop hubflow jq kubernetes-cli nethogs node python python3 rbenv ruby sshuttle telnet tmate tree vim watch wget yq
 https://www.google.com/chrome/thankyou.html?statcb=1
@@ -19,8 +21,6 @@ keynote
 Vysor
 Evernote
 ohmyz.sh
-xcode
-homebrew => brew.sh
 http://www.soundnodeapp.com/
 screenhero
 twitter
