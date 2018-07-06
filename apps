@@ -9,8 +9,8 @@ brew install diff-so-fancy && git config --global core.pager "diff-so-fancy | le
 brew install asciinema git go glide gox htop hubflow jq kubernetes-cli nethogs node python python3 rbenv ruby sshuttle telnet tmate tree vim watch wget yq
 https://www.google.com/chrome/thankyou.html?statcb=1
 https://www.mozilla.org/en-GB/firefox/new/?scene=2
-skype
-franz
+https://go.skype.com/mac.download
+https://meetfranz.com/
 https://www.iterm2.com/downloads.htmlsublime
 atom
 limechat
