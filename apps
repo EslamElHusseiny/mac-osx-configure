@@ -13,6 +13,22 @@ https://go.skype.com/mac.download
 https://meetfranz.com/
 https://www.iterm2.com/downloads.htmlsublime
 https://slack.com/ssb/download-osx-beta
+## ohmyz.sh
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+## Virtualbox
+https://www.virtualbox.org/wiki/Downloads
+## spectacle
+https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.2.zip
+## Vagrant
+https://www.vagrantup.com/downloads.html
+## Docker For Mac (Edge)
+https://download.docker.com/mac/edge/Docker.dmg
+## VSCode
+https://code.visualstudio.com/download
+https://freemacsoft.net/appcleaner/
+https://mega.nz/MEGAsyncSetup.dmg
+https://www.spotify.com/uk/download/mac/#_=_
+---
 atom
 limechat
 shazam
@@ -24,35 +40,19 @@ xchat azure
 keynote
 Vysor
 Evernote
-## ohmyz.sh
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-http://www.soundnodeapp.com/
 twitter
 vlc
-## Virtualbox
-https://www.virtualbox.org/wiki/Downloads
 Guidance
-https://freemacsoft.net/appcleaner/
-https://mega.nz/MEGAsyncSetup.dmg
-https://www.spotify.com/uk/download/mac/#_=_
+sysdig
+http://www.soundnodeapp.com/
 https://www.jetbrains.com/pycharm/download/
 https://www.jetbrains.com/ruby/download/
 https://www.jetbrains.com/idea/download/
 https://puppetlabs.github.io/geppetto/download.html
 http://www.eclipse.org/
-https://code.visualstudio.com/download
 https://www.android.com/filetransfer/
 https://www.airdroid.com/en/get.html
 http://www.audacityteam.org/download/mac/
 http://quran.ksu.edu.sa/ayat/?l=en
-tmate
-asciinema
-sysdig
-## spectacle
-https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.2.zip
 Boom 2 => http://www.globaldelight.com/boom/download/2x/web/boom2.dmg
-## Vagrant
-https://www.vagrantup.com/downloads.html
-## Docker For Mac (Edge)
-https://download.docker.com/mac/edge/Docker.dmg
 aws-shell => https://github.com/awslabs/aws-shell
