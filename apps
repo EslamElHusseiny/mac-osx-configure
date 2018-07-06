@@ -12,9 +12,9 @@ https://www.mozilla.org/en-GB/firefox/new/?scene=2
 https://go.skype.com/mac.download
 https://meetfranz.com/
 https://www.iterm2.com/downloads.htmlsublime
+https://slack.com/ssb/download-osx-beta
 atom
 limechat
-slack
 shazam
 feedly
 pocket
@@ -24,12 +24,13 @@ xchat azure
 keynote
 Vysor
 Evernote
-ohmyz.sh
+## ohmyz.sh
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 http://www.soundnodeapp.com/
-screenhero
 twitter
 vlc
-virtualbox
+## Virtualbox
+https://www.virtualbox.org/wiki/Downloads
 Guidance
 https://freemacsoft.net/appcleaner/
 https://mega.nz/MEGAsyncSetup.dmg
@@ -50,7 +51,8 @@ sysdig
 ## spectacle
 https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.2.zip
 Boom 2 => http://www.globaldelight.com/boom/download/2x/web/boom2.dmg
-vagrantup => https://www.vagrantup.com/
-docker for mac => https://store.docker.com/editions/community/docker-ce-desktop-mac
-oh-my-zsh => http://ohmyz.sh/
+## Vagrant
+https://www.vagrantup.com/downloads.html
+## Docker For Mac (Edge)
+https://download.docker.com/mac/edge/Docker.dmg
 aws-shell => https://github.com/awslabs/aws-shell
