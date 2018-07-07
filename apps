@@ -7,7 +7,14 @@ curl -s "https://get.sdkman.io" | bash
 sdk install java && sdk install groovy
 brew install diff-so-fancy && git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"
 brew install asciinema git go glide gox htop hubflow jq kubernetes-cli nethogs node python python3 rbenv ruby sshuttle telnet tmate tree vim watch wget yq ansible youtube-dl
+## Golang delve
 brew install go-delve/delve/delve
+cd /Users/eslamelhusseiny/Library/Caches/Homebrew
+tar zxvf delve-*.tar.gz
+cd delve*/scripts
+./gencert.sh
+brew install go-delve/delve/delve
+
 brew cask install meld
 pip install awscli awslogs
 https://www.google.com/chrome/thankyou.html?statcb=1
