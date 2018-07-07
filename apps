@@ -8,6 +8,7 @@ sdk install java && sdk install groovy
 brew install diff-so-fancy && git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"
 brew install asciinema git go glide gox htop hubflow jq kubernetes-cli nethogs node python python3 rbenv ruby sshuttle telnet tmate tree vim watch wget yq delve ansible youtube-dl
 brew cask install meld
+pip install awscli awslogs
 https://www.google.com/chrome/thankyou.html?statcb=1
 https://www.mozilla.org/en-GB/firefox/new/?scene=2
 https://go.skype.com/mac.download
