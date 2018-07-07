@@ -6,7 +6,8 @@ curl -s "https://get.sdkman.io" | bash
 ## jdk, groovy
 sdk install java && sdk install groovy
 brew install diff-so-fancy && git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"
-brew install asciinema git go glide gox htop hubflow jq kubernetes-cli nethogs node python python3 rbenv ruby sshuttle telnet tmate tree vim watch wget yq
+brew install asciinema git go glide gox htop hubflow jq kubernetes-cli nethogs node python python3 rbenv ruby sshuttle telnet tmate tree vim watch wget yq delve ansible youtube-dl
+brew cask install meld
 https://www.google.com/chrome/thankyou.html?statcb=1
 https://www.mozilla.org/en-GB/firefox/new/?scene=2
 https://go.skype.com/mac.download
@@ -28,6 +29,13 @@ https://code.visualstudio.com/download
 https://freemacsoft.net/appcleaner/
 https://mega.nz/MEGAsyncSetup.dmg
 https://www.spotify.com/uk/download/mac/#_=_
+https://etcher.io/
+https://get.videolan.org/vlc/last/macosx
+https://zoom.us/download
+http://ptsochantaris.github.io/trailer/
+---
+http://swdl.bluejeans.com/desktop/mac/launchers/Blue%20Jeans%20Launcher.dmg
+https://call.lifesizecloud.com/downloads
 ---
 atom
 limechat
@@ -41,7 +49,6 @@ keynote
 Vysor
 Evernote
 twitter
-vlc
 Guidance
 sysdig
 http://www.soundnodeapp.com/
